@@ -40,4 +40,4 @@ Sistema completo con robot colaborativo, cinta transportadora y sensores.
 - Almacenamiento de datos con SQL y NoSQL  
 
 ## 📌 Repositorios destacados
-- 🔗 [Proyectos 2](link)
+- 🔗 [Proyecto2](link)
