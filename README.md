@@ -37,7 +37,9 @@ Sistema completo con robot colaborativo, cinta transportadora y sensores.
 - Uso de API REST para comunicación  
 - Integración de sensores para control en tiempo real  
 - Automatización de recogida, clasificación y posicionamiento de piezas  
-- Almacenamiento de datos con SQL y NoSQL  
+- Almacenamiento de datos con SQL y NoSQL
+
+---
 
 ## 📌 Repositorios destacados
 - 🔗 [Proyecto2](link)
