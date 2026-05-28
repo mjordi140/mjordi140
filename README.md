@@ -38,3 +38,6 @@ Sistema completo con robot colaborativo, cinta transportadora y sensores.
 - Integración de sensores para control en tiempo real  
 - Automatización de recogida, clasificación y posicionamiento de piezas  
 - Almacenamiento de datos con SQL y NoSQL  
+
+## 📌 Repositorios destacados
+- 🔗 [Proyectos 2](link)
