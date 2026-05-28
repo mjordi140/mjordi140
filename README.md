@@ -42,4 +42,4 @@ Sistema completo con robot colaborativo, cinta transportadora y sensores.
 ---
 
 ## 📌 Repositorios destacados
-- 🔗 [Proyecto2](https://github.com/mjordi140/Proyecto2)
+- 🔗 [Sistema automatizado de clasificación y paletizado industrial](https://github.com/mjordi140/Proyecto2)
