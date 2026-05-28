@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jordi Martínez Rico
+# 👋 Hola, soy Jordi Martínez
 
 🎓 Estudiante de Ingeniería Informática y Robótica (UPV)  
 💻 Interesado en automatización, programación y sistemas industriales  
